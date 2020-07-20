@@ -30,7 +30,7 @@
 	<h1>HISTORICAL PLACES OF TELANGANA</h1>
 	<hr>
 
-	<h2 class="home">HOME</h2>
+	<h2>HOME</h2>
 	<p class="one">Historical places have a unique charm of their own. They not only provide a glimpse into the rich historical past, but they also represent the great achievements made in art and architecture. And the best part is that there is no dearth of such places in Telangana. In fact, no matter what part of the state you go to, you will find a city that boasts several interesting historical place.
 	</p>
 	
